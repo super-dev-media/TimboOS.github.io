@@ -7,4 +7,4 @@ Die neue Version ist nun verfügbar.
 Hier geht es zum Download der beta v.1: [link](gggg)
 
 ## Alle posts (Inhalt)
-{{ post.title }}
+*Hier gibt es noch nichts zu sehen =)*
